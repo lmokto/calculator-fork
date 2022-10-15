@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/OkTestProjects/IntegratingExternalSourceControl/_apis/build/status/lmokto.calculator-fork?branchName=master)](https://dev.azure.com/OkTestProjects/IntegratingExternalSourceControl/_build/latest?definitionId=10&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
